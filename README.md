@@ -1,4 +1,4 @@
-                                                                HackLab: Hacker Simulator
+                                 HackLab: Hacker Simulator
 
 Java OOP Project Analysis   
 Student: Manahil Eman   
